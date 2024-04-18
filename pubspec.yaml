@@ -54,6 +54,9 @@ dependencies:
   flutter_blue_plus: ^1.30.5
   bluetooth_connector: ^0.0.3
   flutter_blue: ^0.8.0
+  flutter_zxing: ^1.5.2
+  qr_code_tools: ^0.1.0
+  image_picker:
 
 dev_dependencies:
   flutter_test:
